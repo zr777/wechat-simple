@@ -1,0 +1,11 @@
+Flask
+wechatpy
+celery
+redis
+requests
+feedparser
+
+PyMySQL
+Flask-WTF
+beautifulsoup4
+Flask-SQLAlchemy
